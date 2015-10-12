@@ -1,0 +1,6 @@
+# Export selected functions
+export(batteryreduction)
+
+# import selected functions
+importFrom(pracma, gramSchmidt)
+importFrom(stats, cor)
