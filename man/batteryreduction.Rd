@@ -17,7 +17,7 @@ batteryreduction(vars, numfact, data)
 If numfact=1, reda matrix and selected variable are returned. If numfact>=2, reda matrix, rota matrix, and selected variables are returned.
 }
 \description{
-Battery reduction is a method used in data reduction. It uses Gram-Schmidt orthogonal rotations to find out a subset of variables best representing the originial set of variables.
+Battery reduction is a method used in data reduction. It uses Gram-Schmidt orthogonal rotations to find out a subset of variables best representing the original set of variables.
 }
 \examples{
 ## Generate an example dataset

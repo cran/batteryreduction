@@ -1,6 +1,6 @@
 #' A function for data reduction
 #'
-#' Battery reduction is a method used in data reduction. It uses Gram-Schmidt orthogonal rotations to find out a subset of variables best representing the originial set of variables.
+#' Battery reduction is a method used in data reduction. It uses Gram-Schmidt orthogonal rotations to find out a subset of variables best representing the original set of variables.
 #' @param vars a vector of variable names
 #' @param numfact	numeric, number of variables to be selected
 #' @param data a dataframe
